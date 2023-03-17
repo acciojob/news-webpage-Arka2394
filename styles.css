@@ -37,7 +37,7 @@ img {
   max-width: 90%;
 }
 
-.div {
+.sec {
   display: inline-block;
   background-color: white;
   width: 29%;
@@ -45,14 +45,16 @@ img {
   margin: 10px;
   flex-wrap: wrap;
   box-sizing: border-box;
+	border-radius:10px;
 }
 
-.latest-news-section{
-    width: 30%;
+#latest-news-section{
+margin-bottom:200px;
+	
 }
 
-.pictorial-news-section{
-    width: 30%;
+#pictorial-news-section{
+    margin-bottom:200px;
 }
 
 #header {
