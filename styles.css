@@ -51,17 +51,17 @@ div {
 .latest-news-section{
 margin-bottom:200px;
 	width:30%;
+	float:left;
 	
 }
 
 .pictorial-news-section{
     margin-bottom:200px;
 	width:30%;
+	text-allign:centre;
+	display:inline-block;
 }
 
-#header {
-  text-align: center;
-}
 
 #div3 {
   text-align: center;
