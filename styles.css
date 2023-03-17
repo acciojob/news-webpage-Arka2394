@@ -48,17 +48,17 @@ img {
 }
 
 .latest-news-section{
-    width: 100%;
+    width: 30%;
 }
 
 .pictorial-news-section{
     width: 30%;
 }
-#header {
-      text-align: center;
-    }
-    
-#div3 {
-      text-align: center;
-    }
 
+#header {
+  text-align: center;
+}
+
+#div3 {
+  text-align: center;
+}
