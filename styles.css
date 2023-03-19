@@ -1,6 +1,6 @@
 header#shaw-head{
 	width:700px;
-	height:30px;
+	height:60px;
 	padding:10px;
 	background-color: #011e29;
 	text-align:center;
@@ -9,9 +9,7 @@ h2{
 	color:white;
 	
 }
-h4{
-	text-align:center;
-}
+
 body{
 	background-color:#f5f4f5;
 }
