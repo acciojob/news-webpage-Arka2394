@@ -1,4 +1,4 @@
-#shaw-head{
+header{
 	width:700px;
 	heigth:30px;
 	padding:10px;
@@ -19,7 +19,7 @@ ul li{
 	position:relative;
 	left:15px;
 }
-#lts{
+.latest-news-section{
 	width:170px;
 	height:120px;
 	padding:5px;
@@ -39,7 +39,7 @@ ul li{
 	right:135px;
 	top:105px;
 }
-#pic{
+.pictorial-news-section{
 	width:160px;
 	heigth:500px;
 	background-color:white;
