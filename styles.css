@@ -3,6 +3,7 @@ header{
 	heigth:30px;
 	padding:10px;
 	background-color: #011e29;
+	text-align:center;
 }
 h2{
 	color:white;
@@ -47,6 +48,7 @@ ul li{
 	position:absolute;
 	right:-35px;
 	top:105px;
+	text-align:center;
 }
 img{
 	width:130px;
