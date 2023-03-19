@@ -1,4 +1,4 @@
-header{
+header#shaw-head{
 	width:700px;
 	heigth:30px;
 	padding:10px;
@@ -7,7 +7,7 @@ header{
 }
 h2{
 	color:white;
-	text-align:center;
+	
 }
 h4{
 	text-align:center;
@@ -40,7 +40,7 @@ ul li{
 	right:135px;
 	top:105px;
 }
-.pictorial-news-section{
+div.pictorial-news-section{
 	width:160px;
 	heigth:500px;
 	background-color:white;
