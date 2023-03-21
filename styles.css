@@ -3,7 +3,7 @@
 	height:60px;
 	padding:10px;
 	background-color: #011e29;
-	text-align:center;
+	text-align:center  !important;
 }
 header{
 	padding:10px;
@@ -51,7 +51,7 @@ ul li{
 	position:absolute;
 	right:-35px;
 	top:105px;
-	text-align:center;
+	text-align:center !important;
 }
 img{
 	width:130px;
