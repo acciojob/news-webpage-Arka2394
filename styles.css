@@ -1,17 +1,27 @@
-.shaw-head{
-	width:700px;
+*{
+	margin: 0;
+	padding: 0;
+	font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+.header{
+	width:100vw;
 	height:60px;
 	padding:10px;
 	background-color: #011e29;
 	text-align:center  !important;
 }
-header{
+/* header{
 	padding:10px;
 	background-color: #011e29;
 	text-align:center;
-}
-h2{
+} */
+.main-heading{
+	margin: auto;
+	padding-top: 10px;
+	text-align:center;
 	color:white;
+	
 	
 }
 
@@ -23,42 +33,41 @@ ul li{
 	position:relative;
 	left:15px;
 }
+
+.parent-container{
+	padding-top: 5px;
+	display: flex;
+	justify-content: space-around;
+}
 .latest-news-section{
 	width:170px;
 	height:120px;
 	padding:5px;
 	background-color:white;
 	border-radius:15px;
-	position:relative;
-	top:10px;
+	
 }
 
-#main-art{
+.main-art{
 	width:350px;
-	heigth:200px;
+	height: 50%;
+	padding: 5px;
 	background-color:white;
 	border-radius:15px;
 	text-align:center;
-	position:absolute;
-	right:135px;
-	top:105px;
+	
 }
 .pictorial-news-section{
+	padding: 5px;
 	width:160px;
 	heigth:500px;
 	background-color:white;
 	border-radius:15px;
-	position:absolute;
-	right:-35px;
-	top:105px;
+	
 	text-align:center !important;
 }
-img{
+.images{
+	maargin : auto;
 	width:130px;
-	position:relative;
-	left:15px;
-}
-#pic-h{
-	position:relative;
-	top:10px;
+	
 }
